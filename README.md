@@ -14,10 +14,12 @@ A console-based Zero Trust Access Control System implemented in C++ using OOP pr
 - Encrypted Audit Logging System (XOR Encryption)
 - Modular OOP Design with proper exception handling
 
-  ## How to run
-  # Step-by-Step Guide
+## How to run
+# Step-by-Step Guide
   1.Clone the repository:
-
+    bash:
+    https://github.com/AfraAnjumOdhora/Zero-Trust-Access-Control-System.git
+  
   2.Open the project in Code::Blocks.
   3.Build & Run (F9 or Build → Build and Run)
   4.Default Credentials (for testing):
@@ -25,8 +27,9 @@ A console-based Zero Trust Access Control System implemented in C++ using OOP pr
      -User: bithi / 12345
      -Guest: guest / 12345
 
-  ## Team Members
+ ## Team Members
      -Afra Anjum Odhora
+     
      -Bithi Khatun
 
   
