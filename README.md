@@ -1,9 +1,9 @@
 # Zero-Trust-Access-Control-System
 
-## Project Overview
+# Project Overview
 A console-based Zero Trust Access Control System implemented in C++ using OOP principles.
 
-## Key Features
+# Key Features
 - Multi-Factor Authentication (Password + OTP)
 - Login Attempt Limit (Brute-force Protection)
 - Role-Based Access Control (RBAC) — Admin, User, Guest
@@ -14,8 +14,8 @@ A console-based Zero Trust Access Control System implemented in C++ using OOP pr
 - Encrypted Audit Logging System (XOR Encryption)
 - Modular OOP Design with proper exception handling
 
-## How to run
-# Step-by-Step Guide
+# How to run
+## Step-by-Step Guide
   1.Clone the repository:
     bash:
     https://github.com/AfraAnjumOdhora/Zero-Trust-Access-Control-System.git
@@ -27,7 +27,7 @@ A console-based Zero Trust Access Control System implemented in C++ using OOP pr
      -User: bithi / 12345
      -Guest: guest / 12345
 
- ## Team Members
+ # Team Members
      -Afra Anjum Odhora
      
      -Bithi Khatun
