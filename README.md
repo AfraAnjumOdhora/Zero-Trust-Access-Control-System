@@ -4,14 +4,7 @@
 
 ## Project Overview
 
-The **Zero Trust Access Control System** is a console-based prototype that implements the core Zero Trust principle — **“Never Trust, Always Verify”**. 
-
-It continuously verifies every access request using Multi-Factor Authentication, Role-Based Access Control, Session Management, and real-time risk assessment.
-
-**Course:** Object Oriented Programming Language Sessional (PROG 112)  
-**Department:** Cyber Security Engineering  
-**University:** University of Frontier Technology, Bangladesh
-
+This system implements the **"Never Trust, Always Verify"** principle by requiring continuous authentication and authorization. It combines Multi-Factor Authentication, Role-Based Access Control, Session Management, and Encrypted Logging. 
 
 ## Key Features
 
@@ -23,7 +16,31 @@ It continuously verifies every access request using Multi-Factor Authentication,
 - Re-authentication for Sensitive Actions
 - Suspicious Activity Detection
 - Encrypted Audit Logging (XOR Encryption)
+- Display the risk level
 
+## Documentation
+
+-Full Project Proposal
+-Full Project Report 
+-Project Presentation
+
+## Technologies Used
+
+- Language: C++17
+- Multithreading (for session timer)
+- STL**: Vector, Map
+- File Handling & XOR Encryption
+
+## OOP Concepts Applied
+
+- Class & Object
+- Encapsulation
+- Abstraction
+- Constructor
+- Composition
+- STL Containers
+- Lambda Expression
+- Multithreading
 
 ##  How to Run
 
@@ -45,17 +62,14 @@ It continuously verifies every access request using Multi-Factor Authentication,
 3.Build and Run
   -Press F9 or go to Build → Build and Run
 
-4.Default Login Credentials
+## Default Login Credentials
+
  Role     Username     Password 
- Admin     admin        12345
- User      odhora       12345
- Guest     guest        12345
+ Admin     admin        123
+ User      user         123
+ Guest     guest        123
 
-## Documentation
-
--Full Project Proposal
--Class Diagram (will be added soon)
--Full Project Report (Submitted)
+## Screenshots
 
 ## Team Members
 
@@ -64,3 +78,6 @@ Afra Anjum Odhora    2404025      01       02
 Mst. Bithi Khatun    2404024      01       02
 
 ## Instructor: Md Masud Rana (Lecturer)
+
+## License
+This project is for academic purposes only.
