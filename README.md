@@ -64,20 +64,22 @@ This system implements the **"Never Trust, Always Verify"** principle by requiri
 
 ## Default Login Credentials
 
- Role     Username     Password 
- Admin     admin        123
- User      user         123
- Guest     guest        123
+ 1.Admin (admin,123)
+ 2.User (user,123)
+ 3.Guest (guest,123)
 
-## Screenshots
 
-## Team Members
+## Developed By
+1. Afra Anjum Odhora (2404025)      
+2. Mst. Bithi Khatun (2404024)
+Level-01
+Term-02
+Department of Cyber Security Engineering,
+University of Frontier Technology,Bangladesh
 
-Name                StudentID    Level    Term
-Afra Anjum Odhora    2404025      01       02
-Mst. Bithi Khatun    2404024      01       02
-
-## Instructor: Md Masud Rana (Lecturer)
+## Instructor: Md Masud Rana (Lecturer),
+Department of Cyber Security Engineering,
+University of Frontier Technology,Bangladesh
 
 ## License
 This project is for academic purposes only.
